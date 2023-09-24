@@ -44,6 +44,12 @@ There is no license for this as we are temporary explaining the
 
 Using the Hugging Face and Streamlit, the code for a basic sentiment analysis features is as follows ...
 
+The air pollution datasets are for deep learning frameworks and not for NLP, have to be separately processed. 
+
+Require a GPU/ Cloud services to do up this air pollution datasets. 
+
+Need more stakeholders like the members of public onboard this mission as well...
+
 Based on this basic sentiment analysis features, we can setup the news from the reporting chat 
 agent and/or virtual chat assistant embedded. 
 
