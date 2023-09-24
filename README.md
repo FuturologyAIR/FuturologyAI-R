@@ -8,6 +8,8 @@ To address these communication challenges, the project aims to create a virtual 
 
 One practical use case for this virtual chat assistant is to monitor air pollution levels and provide information through sign language, as detailed in the provided Lite paper and White paper, which address the significant issue of air pollution in society. Overall, the project aims to leverage AI and sign language to enhance communication, accessibility, and well-being for all individuals in the future.
 
+*** Note : The full installation package of the exact entire AI, virtual chat assistant with basic sentiment analysis features will only be provided after being shortlisted to the final judginng round/s. 
+
 ## Table of Contents
 
 - [Installation](#installation)
@@ -38,7 +40,7 @@ python your_script.py
 Others whom wish to contribute to our project by providing us some tips, share with us on 
 how we can seek improvement for the next judging round. 
 
-There is no license for this as we are temporary explaining the 
+There is no license for this as we are temporary hosting this here...
 
 ### Prerequisites
 
