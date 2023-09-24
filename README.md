@@ -17,11 +17,35 @@ One practical use case for this virtual chat assistant is to monitor air polluti
 
 ## Installation
 
+Clone the repository.git clone https://github.com/FuturologyAIR/FuturologyAI-R.git
 
+1.Navigate to the project directory.
+
+cd your-project
+
+Install dependencies.
+
+# Use the appropriate package manager for your project, e.g., pip or npm
+pip install -r requirements.txt
+
+
+Additional setup steps, if necessary.
+Usage
+
+# Example usage
+python your_script.py
+
+Others whom wish to contribute to our project by providing us some tips, share with us on 
+how we can seek improvement for the next judging round. 
+
+There is no license for this as we are temporary explaining the 
 
 ### Prerequisites
 
-Using the Hugging Face and Streamlit, the code for a basic chat ai assistant features is as follows ...
+Using the Hugging Face and Streamlit, the code for a basic sentiment analysis features is as follows ...
+
+Based on this basic sentiment analysis features, we can setup the news from the reporting chat 
+agent and/or virtual chat assistant embedded. 
 
 ```
 // E.g The gates of heaven have been opened (POSITIVE: 0.999289870262146)
