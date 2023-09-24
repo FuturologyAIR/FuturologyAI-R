@@ -23,6 +23,7 @@ One practical use case for this virtual chat assistant is to monitor air polluti
 
 Using the Hugging Face and Streamlit, the code for a basic chat ai assistant features is as follows ...
 
+```
 // E.g The gates of heaven have been opened (POSITIVE: 0.999289870262146)
 // E.g The gates of hell have been opened (NEGATIVE: 0.91)
 
@@ -46,3 +47,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+```
